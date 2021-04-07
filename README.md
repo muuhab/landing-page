@@ -1,7 +1,7 @@
 # Landing Page Project
 This is the landing page 
 ## Build With
-* HTMl
+* HTML
 * CSS
 * JS
 
